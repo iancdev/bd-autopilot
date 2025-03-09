@@ -1,6 +1,6 @@
 # BD-AutoPilot Plugin for BetterDiscord
 
-[![Version](https://img.shields.io/badge/version-7.6.0-blue.svg)](https://github.com/iancdev/BDAutoPilot/releases)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/iancdev/BDAutoPilot/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 BD-AutoPilot is a BetterDiscord Plugin that connects OpenAI LLMs with Discord chats, allowing semi-autonomous/full autonomous conversations with users across DMs, group chats and servers. It features human-like interaction with robust memory management, natural speech patterns, and multimodal support.
