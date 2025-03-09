@@ -1,15 +1,15 @@
 /**
- * AutoPilot Plugin for BetterDiscord
- * @version 7.6.0
- * A conversational AI plugin with channel-specific toggles, memory management, and GPT-based replies.
+ * AutoPilot
+ * @version 1.0.0
+ * Let LLMs take control of your conversations for semi-auto or auto conversation handling, with robust memory management, human response patterns, and other humanization features.
  */
 
 module.exports = class AutoPilot {
     constructor() {
         this._config = {
             name: "AutoPilot",
-            version: "7.6.0",
-            description: "A dynamic conversational AI plugin with advanced memory management."
+            version: "1.0.0",
+            description: "Let LLMs take control of your conversations for semi-auto or auto conversation handling, with robust memory management, human response patterns, and other humanization features."
         };
 
         this.settings = {
